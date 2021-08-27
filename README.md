@@ -1,5 +1,5 @@
 ![welcome](https://i.imgur.com/yuTd0ek.png) <br/>
-
+---
 
 - Javacript/Typescript enthusiast!
 - Small content creator on youtube, enjoys youtube videos.
