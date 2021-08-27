@@ -1,4 +1,4 @@
-![welcome](https://i.imgur.com/6XHBC84.png) <br/>
+![welcome](https://i.imgur.com/yuTd0ek.png) <br/>
 
 
 - Javacript/Typescript enthusiast!
