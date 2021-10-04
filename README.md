@@ -33,3 +33,12 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 </a>
 </details> -->
 <img src="https://discord.c99.nl/widget/theme-3/413100574981095425.png" />
+
+<h1>Github Activities Stats</h1>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Voxel0&show_icons=true&theme=dracula">
+</p>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voxel0&hide=css&theme=dracula">
+</p>
