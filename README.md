@@ -1,7 +1,7 @@
 ![welcome](https://i.imgur.com/yuTd0ek.png) <br/>
 ---
 
-- Javascript/nodejs Main lang
+- Lua main language
 - Small Discord bot dev
 - Self taught programmer <br />
 
