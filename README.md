@@ -32,7 +32,7 @@ Currently coding discord bots for payments. Send me a message on discord to disc
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark" />
 </a>
 </details> -->
-<img src="https://discord.c99.nl/widget/theme-3/413100574981095425.png" />
+<img src="https://discord.c99.nl/widget/theme-2/413100574981095425.png" />
 
 <h1>Github Activities Stats</h1>
 
