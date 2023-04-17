@@ -1,16 +1,11 @@
 ![welcome](https://i.imgur.com/yuTd0ek.png) <br/>
 ---
 
-- Lua main language
-- Small Discord bot dev
+- Python is my main Language
+- Discord Bot Developer
 - Self taught programmer <br />
 
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" />
-<img align="left" alt="html" width="30px" src="https://i.imgur.com/P16xRAL.png" />
 
 <!-- ### Jobs
 Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
